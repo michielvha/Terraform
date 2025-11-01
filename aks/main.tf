@@ -1,6 +1,6 @@
 module "aks" {
   source = "Azure/aks/azurerm"
-  version = "7.4.0"
+  version = "7.5.0"
 
   // Add your configuration here
   resource_group_name = "mks"
