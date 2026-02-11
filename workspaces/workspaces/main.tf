@@ -29,5 +29,5 @@ resource "tfe_workspace" "aks" {
   auto_apply = true
 
   // Configure Terraform version
-  terraform_version = "1.13.5"
+  terraform_version = "1.14.5"
 }
